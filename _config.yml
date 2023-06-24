@@ -2,7 +2,8 @@ title: Shadows in Paradise
 # description: My very nice blog
 author: "Toshiki Hinai"
 
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
 
 # base_url: /gh-pages-minima-starter
 
