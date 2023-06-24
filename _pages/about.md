@@ -9,6 +9,7 @@ But a few things to note:
 * I'm 27.
 * I graduated from Tohoku University and earned a master's degree in space robotics.
 * My professional interest is Mathematics, especially statistics.
+  * Data science in the manufacturing industry.
 * Studying languages is one of my lifelong hobbies.
   * English: decent, I think.
   * French: Bonjour! level.
