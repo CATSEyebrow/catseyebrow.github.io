@@ -18,10 +18,10 @@ But a few things to note:
 
 And a few of my favorite words:
 
-"Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise. "
+_"Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise. "_
 [Source](https://en.wikiquote.org/wiki/John_Tukey)
 
-"Everything Should Be Made as Simple as Possible, But Not Simpler"
+_"Everything Should Be Made as Simple as Possible, But Not Simpler"_
 [Source](https://quoteinvestigator.com/2011/05/13/einstein-simple/)
 
 # ![](https://www.jorgesanz.net/assets/imgs/me/jsanz_small4.png)
