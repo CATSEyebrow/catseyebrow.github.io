@@ -3,6 +3,8 @@ date: 2023-06-24
 layout: post
 ---
 
+2023-06-24-shining
+
 title: "[MovieAnalysis] Shining A Body without Organs but Flesh, Blood... and Cancer"
 
 One of the first "secrets" people know in Shining is _symmetry_ appeared everywhere.
