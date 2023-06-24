@@ -24,8 +24,8 @@ minima:
 #  - _pages/about.md
 #  - _pages/archive.md
 
-#include:
-#    - _pages
+include:
+    - _pages
 
 exclude: 
     - .gitignore
