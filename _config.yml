@@ -13,15 +13,15 @@ linkedin_username: toshiki-hinai
 rss: rss
 
 # Minima: show excerpts in the frontpage
-show_excerpts: true
+show_excerpts: false
 
 minima:
   date_format: "%Y-%m-%d"
 
 ## Minima: custom header links
-#header_pages:
-#  - _pages/frontpage.md
-#  - _pages/about.md
+header_pages:
+  - _pages/frontpage.md
+  - _pages/about.md
 #  - _pages/archive.md
 
 include:
