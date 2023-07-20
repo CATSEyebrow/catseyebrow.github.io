@@ -25,4 +25,7 @@ _"Far better an approximate answer to the right question, which is often vague, 
 _"Everything Should Be Made as Simple as Possible, But Not Simpler"_
 [Source](https://quoteinvestigator.com/2011/05/13/einstein-simple/)
 
+_"Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful"_
+[Source](https://en.wikipedia.org/wiki/All_models_are_wrong)
+
 # ![](https://www.jorgesanz.net/assets/imgs/me/jsanz_small4.png)
