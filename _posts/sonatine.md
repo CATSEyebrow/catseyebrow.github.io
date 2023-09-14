@@ -1,0 +1,27 @@
+---
+date: 2023-09-15
+layout: post
+---
+
+2023-09-15-sonatine
+
+title: "[MovieAnalysis] Sonatine by Takeshi Kitano"
+
+"Sonatine" was the film I was fascinated by the beautiful scenery and one of the first films that got me into the whole cinema universe.
+
+The whole construction of the film is one-to-one relations between an actual event and metaphysical representation.
+
+Everything in the film can be explained in that way.
+For example, the famous sumo scene is a cynical example because the actual event is just an imitation of the game on the paperboard, but you must get a sense of it. 
+
+[Sumo scene](https://www.youtube.com/watch?v=9JTtx07oveY)
+
+Another example is the relation between the fact that Murakawa fell into a trap and was deprived of his rights and business and the scene where the woman fell into a pitfall on the beach.
+It can be said the bar scene is to the fireworks scene what the slaughter scene is to the woman with the gun scene.
+
+But the one thing misses the pair. The final suicide scene. It cannot be compromised only in the cinema because the death of the protagonist means the ending of the movie.
+This needs somebody to compensate and Takeshi, the director himself, can only be the person who can be the pair of this cinematic event.
+
+This ending gives us a clear but awkward feeling to it.
+
+[Ending scene](https://www.youtube.com/watch?v=j6LCTDDYPzY&t=185s)
